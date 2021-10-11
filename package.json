@@ -1,0 +1,22 @@
+{
+  "name": "testgit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/Salonimeena/Testgit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Salonimeena/Testgit/issues"
+  },
+  "homepage": "https://github.com/Salonimeena/Testgit#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
